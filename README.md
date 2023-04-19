@@ -26,5 +26,5 @@
   </h3>
   
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://in.linkedin.com/in/gokul-link?trk=profile-badge) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](http://instagram.com/third_echelon49?utm_source=qr)           
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://in.linkedin.com/in/gokul-link?trk=profile-badge) &nbsp; 
 </h3>
